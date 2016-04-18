@@ -10,7 +10,7 @@
     "bamboo-api": "./bin/bamboo-api"
   },
   "dependencies": {
-    "request": "~2.11.4",
+    "request": "^2.72.0",
     "underscore": "~1.4.2",
     "commander": "~1.0.5"
   },
